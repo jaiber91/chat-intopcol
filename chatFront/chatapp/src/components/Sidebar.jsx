@@ -14,7 +14,6 @@ export const Sidebar = () => {
         ))
     }
 
-      {/* <!-- Espacio extra para scroll --> */}
       <div className="extra_space"></div>
     </div>
   );

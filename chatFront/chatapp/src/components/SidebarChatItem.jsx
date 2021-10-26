@@ -4,7 +4,6 @@ export const SidebarChatItem = () => {
     return (
           
       <div className="chat_list ">
-          {/*active_chat: para usar despues */}
       <div className="chat_people">
         <div className="chat_img">
           <img
